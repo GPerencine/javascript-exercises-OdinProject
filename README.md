@@ -10,14 +10,14 @@ This repository serves as a record of my progress and growth in JavaScript and s
 
 The repository is divided into three main sections following the progression of The Odin Project curriculum:
 
-* `foundations/` contains exercises covering fundamental JavaScript concepts and programming fundamentals.
-* `computer_science/` contains exercises exploring computer science topics such as recursion and algorithmic thinking.
-* `generators/` contains exercises focused on JavaScript generators and advanced iteration concepts.
+- `foundations/` contains exercises covering fundamental JavaScript concepts and programming fundamentals.
+- `computer_science/` contains exercises exploring computer science topics such as recursion and algorithmic thinking.
+- `generators/` contains exercises focused on JavaScript generators and advanced iteration concepts.
 
 Within each section:
 
-* The second level represents the exercise folder (for example, `01_helloWorld`).
-* Inside each exercise folder are the original `README.md` containing the instructions and requirements, along with my solution to the exercise and the provided test files.
+- The second level represents the exercise folder (for example, `01_helloWorld`).
+- Inside each exercise folder are the original `README.md` containing the instructions and requirements, along with my solution to the exercise and the provided test files.
 
 Example:
 
