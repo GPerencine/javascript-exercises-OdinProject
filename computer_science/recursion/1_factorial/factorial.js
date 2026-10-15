@@ -5,7 +5,7 @@ const factorial = function (number) {
     Number.isNaN(number) ||
     !Number.isInteger(number)
   ) {
-    return undefined;
+    return;
   } else if (number === 0) {
     return 1;
   } else {
