@@ -8,26 +8,24 @@ This repository serves as a record of my progress and growth in JavaScript and s
 
 ## Repository Structure
 
-The repository is divided into three main sections following the progression of The Odin Project curriculum:
+The repository is organized into three main sections following the progression of The Odin Project curriculum:
 
 - `foundations/` contains exercises covering fundamental JavaScript concepts and programming fundamentals.
 - `computer_science/` contains exercises exploring computer science topics such as recursion and algorithmic thinking.
 - `generators/` contains exercises focused on JavaScript generators and advanced iteration concepts.
 
-Within each section:
-
-- The second level represents the exercise folder (for example, `01_helloWorld`).
-- Inside each exercise folder are the original `README.md` containing the instructions and requirements, along with my solution to the exercise and the provided test files.
+- Exercises are grouped into lesson folders, containing individual exercise directories (e.g., `01_helloWorld/`).
+- Inside each exercise folder is the original `README.md` with instructions and requirements, along with my solution to the exercise and the provided test file (`.spec.js`).
 
 Example:
 
 ```text
 foundations/
-└── 01_helloWorld/
+└── data_types_and_conditionals/
+    └── 01_helloWorld/
         ├── helloWorld.js
         ├── helloWorld.spec.js
-        ├── README.md
-        └── solution/
+        └── README.md
 ```
 
 This organization keeps the repository aligned with the course structure and makes it easy to track my progress throughout the curriculum.
